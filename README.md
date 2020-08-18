@@ -4,7 +4,7 @@ An astronaut is a human being who travels in space or is transported by somethin
 ## Dataset
 This dataset (astronauts.csv) has nineteen columns, organized as follows: Name, Year, Group, Status, Birthdate, Birthplace, Gender, Alma mater, Undergraduate and Graduate Major.
 
-## Question 
+## Questions
 1) What is the average age of astronauts on duty? <br />
 2) What are the most common academic studies? <br />
 3) Have most astronauts served in the military? Which branch? <br />
